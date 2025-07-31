@@ -18,4 +18,4 @@ Content addition patterns: How has Netflix’s content library evolved?
 We use visualization tools such as Matplotlib, Seaborn, and Plotly to present our findings in a clear and interactive way. For advanced analysis, machine learning models can be implemented to recommend content or forecast future content trends.
 This project is ideal for those looking to gain practical skills in data analysis, visualization, and storytelling. It is especially valuable for aspiring data scientists, analysts, or marketers who want to work in the entertainment or digital streaming industry. Ultimately, this project helps stakeholders—whether they are Netflix executives or academic researchers—make data-driven decisions that enhance user satisfaction and platform engagement.
 
-![image]()
+![image](https://github.com/santhosh07sk/Santhoshkumar/blob/main/Netflix%20image.png?raw=true)
